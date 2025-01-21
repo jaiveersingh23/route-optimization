@@ -1,7 +1,9 @@
-```markdown
+
 # Route Optimization with AI and Heuristic Algorithms
 
 This project focuses on optimizing delivery routes using a variety of algorithms, including heuristic methods and AI-based approaches. By comparing Tabu Search, Genetic Algorithm, Ant Colony Optimization, Nearest Neighbor Heuristic, and Reinforcement Learning, we aim to find the most efficient routing strategies for delivery systems. The project also includes a visualization component for comparing algorithm performance.
+
+---
 
 
 ## 🚀 Features
@@ -96,5 +98,4 @@ Special thanks to the open-source community and libraries such as:
 - [Python Libraries: NumPy, Matplotlib, NetworkX](https://pypi.org/)
 
 ---
-
 
