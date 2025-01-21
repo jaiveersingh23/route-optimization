@@ -5,10 +5,6 @@ This project focuses on optimizing delivery routes using a variety of algorithms
 
 ---
 
-## 📂 Repository Structure
-
-
----
 
 ## 🚀 Features
 
