@@ -7,28 +7,6 @@ This project focuses on optimizing delivery routes using a variety of algorithms
 
 ## 📂 Repository Structure
 
-```
-route-optimization/
-│
-├── algorithms/
-│   ├── ant_colony.py                # Implementation of Ant Colony Optimization
-│   ├── genetic_algorithm.py         # Genetic Algorithm for route optimization
-│   ├── nearest_neighbour.py         # Nearest Neighbor Heuristic
-│   ├── reinforcement_learning.py    # Reinforcement Learning for route optimization
-│   ├── tabu_search.py               # Tabu Search algorithm
-│
-├── utils/
-│   ├── google_maps_api.py           # Fetch distance matrices via Google Maps API
-│   ├── osmnx.py                     # Handle OpenStreetMap data for routing
-│
-├── data/
-│   ├── locations.csv                # Input data for delivery locations
-│
-├── main.py                          # Main script to execute and compare algorithms
-├── visualization.py                 # Code for visualizing results and graphs
-├── requirements.txt                 # Python dependencies
-└── README.md                        # Project documentation
-```
 
 ---
 
